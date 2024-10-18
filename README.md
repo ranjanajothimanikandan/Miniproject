@@ -105,6 +105,7 @@ Promotes AI in Healthcare: This project contributes to the ongoing advancement o
 
 ## Articles published / References
 1.Prabhavathi, K., Patil, S. (2022). “Tremors and Bradykinesia. In: Arjunan, S.P., Kumar, D.K. (eds) Techniques for Assessment of Parkinsonism for Diagnosis and Rehabilitation”.
+
 2.Nicoló G. Pozzi, Ioannis U. Isaias (2022), “Chapter 19 - Adaptive deep brain stimulation: Retuning Parkinson's disease”
 
 
